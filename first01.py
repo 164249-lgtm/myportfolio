@@ -5,5 +5,5 @@ length = float(input("กรอกความยาว: "))
 # คำนวณพื้นที่
 area = width * length
 
-print(f"พื้นที่ = {area}")
+print("พื้นที่ = {area}")
 Comment
