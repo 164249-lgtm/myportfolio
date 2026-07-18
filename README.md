@@ -34,8 +34,16 @@ target="_blank">
 
 
 
+<a href="https://drive.google.com/file/d/1u6BwAUT-_5IgEESW2oicEirMX6VGrK8W/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมที่เข้าร่วม 🎐 </button>
+</a>
 
 
 
 
+<a href="https://drive.google.com/file/d/1TvnkOad6rsUK9EZz-9yASJbq0B8BxX7u/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมด้านคุณธรรมเเละจริยธรรม 🍃 </button>
+</a>
 
