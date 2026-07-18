@@ -13,3 +13,9 @@ target="_blank">
 target="_blank">
 <button> ประวัติส่วนตัว 🔒 </button>
 </a>
+
+
+<a href="https://drive.google.com/file/d/1MUlFEvFbgRreD4BA4E-4-E7dZeXEidxK/view?usp=sharing"
+target="_blank">
+<button> ใบเเสดงผลการเรียน 📄 </button>
+</a>
