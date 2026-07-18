@@ -13,5 +13,5 @@ target="_blank">
 
 <a href="![Uploading เพิ่มหัวเรื่อง.png…]" 
 target="_blank">
-<button>เปิด Portfolio</button>
+<button>หน้าเเรก</button>
 </a>
