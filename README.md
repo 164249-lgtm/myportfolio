@@ -25,3 +25,17 @@ target="_blank">
 target="_blank">
 <button> SOP 👩🏻‍⚕️ </button>
 </a>
+
+
+<a href="https://drive.google.com/file/d/1YBDDpt5uQl_R6z5XqpcVO-eVHIo6fA_y/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมด้านวิชาการ 🥈 </button>
+</a>
+
+
+
+
+
+
+
+
