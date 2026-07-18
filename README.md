@@ -23,5 +23,5 @@ target="_blank">
 
 <a href="https://drive.google.com/file/d/1HEY0pvV2oYO46Z1SOsvN0SGD1ykst39K/view?usp=sharing"
 target="_blank">
-<button> ประวัติส่วนตัว 🔒 </button>
+<button> SOP 👩🏻‍⚕️ </button>
 </a>
