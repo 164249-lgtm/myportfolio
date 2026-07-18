@@ -47,3 +47,25 @@ target="_blank">
 <button> กิจกรรมด้านคุณธรรมเเละจริยธรรม 🍃 </button>
 </a>
 
+
+
+<a href="https://drive.google.com/file/d/1jieNbqohozItjFdbmlPPL7175aF9gtp4/view?usp=sharing"
+target="_blank">
+<button> กิจกรรมที่ภาคภูมิใจ 🤩 </button>
+</a>
+
+
+
+
+
+<a href="https://drive.google.com/file/d/1wcYWKjr-HlkvoRajFJ_P6mNoUaJEJMdD/view?usp=sharing"
+target="_blank">
+<button> เกียรติบัตรอื่นๆที่ได้รับ 🎊 </button>
+</a>
+
+
+
+<a href="https://drive.google.com/file/d/1tIwbfxBKWuBnxUUHtLSBlk7NRP0yx-gC/view?usp=sharing"
+target="_blank">
+<button> เกียรติบัตรอื่นๆที่ได้รับ 🎊 </button>
+</a>
