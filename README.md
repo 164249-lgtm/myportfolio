@@ -65,7 +65,14 @@ target="_blank">
 
 
 
-<a href="https://drive.google.com/file/d/1tIwbfxBKWuBnxUUHtLSBlk7NRP0yx-gC/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1EYrEtixGoYSK6aeL-ChJI5-AfQRLAXb0/view?usp=sharing"
+target="_blank">
+<button> เกียรติบัตรอื่นๆที่ได้รับ 🎊 </button>
+</a>
+
+
+
+<a href="https://drive.google.com/file/d/1KBiZ-8VbeF8rN353A1GbWx2FfioQCt0F/view?usp=sharing"
 target="_blank">
 <button> เกียรติบัตรอื่นๆที่ได้รับ 🎊 </button>
 </a>
