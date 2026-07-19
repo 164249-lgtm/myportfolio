@@ -72,7 +72,7 @@ target="_blank">
 
 
 
-<a href="https://drive.google.com/file/d/1kMFhLgu6VvHbSikHGaamAfLiHiXFbbOV/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1gDppp7jJ1aGraXEHqKmDPeWZdQM-H2HD/view?usp=sharing"
 target="_blank">
 <button> ปกท้าย 📍 </button>
 </a>
