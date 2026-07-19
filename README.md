@@ -15,7 +15,7 @@ target="_blank">
 </a>
 
 
-<a href="https://drive.google.com/file/d/1MUlFEvFbgRreD4BA4E-4-E7dZeXEidxK/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1q_Y-l46R_LfuODaZq3kvzQB8GlD0GuPt/view?usp=sharing"
 target="_blank">
 <button> ใบเเสดงผลการเรียน 📄 </button>
 </a>
