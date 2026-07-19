@@ -69,3 +69,10 @@ target="_blank">
 target="_blank">
 <button> เกียรติบัตรอื่นๆที่ได้รับ 🎊 </button>
 </a>
+
+
+
+<a href="https://drive.google.com/file/d/1kMFhLgu6VvHbSikHGaamAfLiHiXFbbOV/view?usp=sharing"
+target="_blank">
+<button> ปกท้าย 📍 </button>
+</a>
