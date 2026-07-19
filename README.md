@@ -27,7 +27,7 @@ target="_blank">
 </a>
 
 
-<a href="https://drive.google.com/file/d/1J6yb-hs9Gl0cHL9i9Jj9AyAdvbqI1Mti/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1bjeXSWXqx0PV36pzOafORQTlWg7zArHA/view?usp=sharing"
 target="_blank">
 <button> กิจกรรมด้านวิชาการ 🥈 </button>
 </a>
